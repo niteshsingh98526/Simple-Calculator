@@ -1,8 +1,6 @@
 # Simple-Calculator
 -> For Complie
-
 Javac Calculator.java
 
--> For RUn
-
+-> For Run
 Java Calculator
